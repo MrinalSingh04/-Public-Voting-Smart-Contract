@@ -36,7 +36,7 @@ This smart contract addresses those issues by providing:
 ## 🧪 Tech Stack
 
 - Solidity (v0.8.20)
-- Hardhat (for development and testing)
+- Hardhat (for deployment and testing)
 
 ## 📜 Smart Contract Overview
 
