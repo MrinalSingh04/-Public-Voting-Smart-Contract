@@ -37,8 +37,6 @@ This smart contract addresses those issues by providing:
 
 - Solidity (v0.8.20)
 - Hardhat (for development and testing)
-- Ethers.js (optional frontend integration)
-- MetaMask (wallet for voting)
 
 ## 📜 Smart Contract Overview
 
